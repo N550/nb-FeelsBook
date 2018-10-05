@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/EmotionHistoryItem"
+        android:onClick="viewHistory"
+        android:orderInCategory="100"
+        android:title="@string/Emotion_history" />
+    <item
+        android:id="@+id/emotionCountItem"
+        android:onClick="viewEmotionCount"
+        android:orderInCategory="101"
+        android:title="@string/Emotion_count" />
+</menu>

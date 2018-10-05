@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">nb--FeelsBook</string>
+    <string name="recordFeeling">Record Feeling</string>
+    <string name="FeelsBookLogo">FeelsBook</string>
+    <string name="action_settings" />
+    <string name="Emotion_history">Emotion History</string>
+    <string name="Emotion_count">Emotion count</string>
+
+
+    <string-array name="emotion_array">
+        <item>Love</item>
+        <item>Joy</item>
+        <item>Surprise</item>
+        <item>Anger</item>
+        <item>Sadness</item>
+        <item>Fear</item>
+    </string-array>
+    <string name="Comment">Comment (up to 100 characters)</string>
+    <string name="Choose_emotion">What are you feeling?</string>
+    <string name="Love_emotion">Love</string>
+    <string name="Joy_emotion">Joy</string>
+    <string name="Surprise_emotion">Surprise</string>
+    <string name="Anger_emotion">Anger</string>
+    <string name="Sadness_emotion">Sadness</string>
+    <string name="Fear_emotion">Fear</string>
+
+
+</resources>
